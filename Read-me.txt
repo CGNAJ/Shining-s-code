@@ -1,0 +1,8 @@
+1. Run NewGenerate.py to get a .csv file dataset.
+
+2. Copy the name to ClusterReconstruction.py
+
+3. Run ClusterReconstruction.py
+
+This version is used to show the basic structrue and thought of the code.
+The new version including finding 'super cluster' is not completed.
